@@ -1,0 +1,17 @@
+body {
+	background-color: pink;
+}
+
+.title {
+	background-color: yellow;
+}
+.sidebar {
+	background-color: maroon;
+}
+.main {
+	background-color: blue;
+}
+.footer
+ {
+	background-color: red;
+}
