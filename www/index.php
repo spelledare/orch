@@ -14,10 +14,10 @@
 	</head> 
  	<body> 
  	
-<div class="title">titel</div>
+<div class="title"><?=$title?> - <?=$slogan?></div>
 <div class="sidebar">sidebar</div>
-<div class="main">main</div>
-<div class="footer">footer</div>	
+<div class="main">main. aösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldkaösldkj öasld jföasld kjföasdlk jföasld jföasldk jföasldk jföasldf jköasldfj öasldkf jöasldk</div>
+<div class="footer"><div align="center"><hr width="75%"/>Copyright &copy; tillhör respektive författare och är helt överflödigt att skriva ut här. <a href="<?=$url?>"><?=$urltext?></a></div></div>	
  	
  <!--	
  	<h1><?=$title?></h1>
